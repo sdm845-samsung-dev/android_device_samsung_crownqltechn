@@ -8,3 +8,6 @@
 include device/samsung/sdm845-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/samsung/crownqlte
+
+# Kernel
+TARGET_KERNEL_CONFIG := lineage_crownqlte_defconfig
