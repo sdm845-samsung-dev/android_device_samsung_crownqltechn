@@ -9,5 +9,8 @@ include device/samsung/sdm845-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/samsung/crownqlte
 
+# Display
+TARGET_SCREEN_DENSITY := 480
+
 # Kernel
 TARGET_KERNEL_CONFIG := lineage_crownqlte_defconfig
