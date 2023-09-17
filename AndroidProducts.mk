@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_crownqlte.mk
+    $(LOCAL_DIR)/lineage_crownqltechn.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_crownqlte-user \
-    lineage_crownqlte-userdebug \
-    lineage_crownqlte-eng
+    lineage_crownqltechn-user \
+    lineage_crownqltechn-userdebug \
+    lineage_crownqltechn-eng
